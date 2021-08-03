@@ -39,7 +39,7 @@ body, html {
   position: absolute;
   right: 0;
   margin: 20px;
-  max-width: 400px;
+  max-width: 401px;
   padding: 16px;
   background-color: white;
 }
